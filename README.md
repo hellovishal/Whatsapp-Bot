@@ -40,4 +40,4 @@ Step 7: Scan the QR code in a period of 15secs
 
 ## Authors
 This project is developed and maintained
-by [@Hasan Koser](https://github.com/hellovishal)
+by [@Vishal](https://github.com/hellovishal)
